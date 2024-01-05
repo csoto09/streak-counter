@@ -1,7 +1,8 @@
 repo_name: csoto09/streak-counter
 report_id: d452a934f0e9d8938fbcdeb85a073020
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-17T01:15:29+00:00'
+timestamp: '2024-01-05T08:37:59+00:00'
 requested_by: csoto09
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/csoto09/streak-counter
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/csoto09/streak-counter
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/package.json
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/csoto09/streak-counter
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/.github/workflows/npm-publish.yaml
   detection_source: ".github/workflows/npm-publish.yaml"
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -69,7 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -95,7 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7054/preview.jpeg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -107,6 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/package.json
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -120,7 +128,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -134,7 +142,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -162,7 +170,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
@@ -176,7 +184,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16393/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:33:04.000000000 Z
@@ -191,7 +199,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/csoto09/streak-counter/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Carlos J. Soto
   last_updated_on: 2023-03-08 21:24:39.000000000 Z
